@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Music For Westies
+title: About
 permalink: /about/
 ---
 
