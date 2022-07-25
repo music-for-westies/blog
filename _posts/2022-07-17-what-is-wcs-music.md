@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is West Coast Swing Music?"
-date:   2022-07-24 11:15:20 -0700
+date:   2022-07-24 11:45:20 -0700
 categories: 
     - music-theory
 hidden: true
