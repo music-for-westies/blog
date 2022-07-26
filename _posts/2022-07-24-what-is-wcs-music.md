@@ -117,11 +117,11 @@ A different rhythm is used in "Play that Song" by Train:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/77hjM9bMmgfTGJXv14UFmi?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-While it does have a snare drum on every `2`, if you listen closely you'll notice that the
+While the snare drum can be heard on every `2`, if you listen closely you'll notice that the
 vocals emphasize the `1`. This repeated emphasis on the `1` detracts from the
-`2`, so while it's still "dancable", I don't consider this a natural West Coast Swing song. 
+`2`, so while it's still dancable, I don't consider this a natural West Coast Swing song. 
 
-To summarize our emphasis metric, we can say:
+To summarize our **emphasis** metric, we can say:
 
 > A West Coast Swing song should emphasize every
 second beat, to match the emphasis of our triple step
