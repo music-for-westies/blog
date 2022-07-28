@@ -12,7 +12,7 @@ hidden: true
 Some time ago, we had someone DJ for the first time at one of our regular weekly West Coast Swing
 dances. At a café afterwards, they asked us the other staff and DJs (including myself): "What makes
 a song a good West Coast Swing Song? I understand too slow or too fast, but I can't tell why some
-rhythms work and some don't". Surprisingly, none of the could articulate what makes a West Coast
+rhythms work and some don't". Surprisingly, none of us could articulate what makes a West Coast
 Swing rhythm beyond "I know it when I hear it". Well and truly nerd-sniped, I went off and research
 as much as I could, and the result, is the following content.
 
