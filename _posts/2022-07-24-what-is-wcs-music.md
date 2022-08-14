@@ -10,17 +10,17 @@ hidden: true
 # What is West Coast Swing Music?
 
 Some time ago, we had someone DJ for the first time at one of our regular weekly West Coast Swing
-dances. At a café afterwards, they asked us the other staff and DJs (including myself): "What makes
+socials. At a café afterwards, they asked us the other staff and DJs (including myself): "What makes
 a song a good West Coast Swing Song? I understand too slow or too fast, but I can't tell why some
 rhythms work and some don't". Surprisingly, none of us could articulate what makes a West Coast
-Swing rhythm beyond "I know it when I hear it". Well and truly nerd-sniped, I went off and research
-as much as I could, and the result, is the following content.
+Swing rhythm beyond "I know it when I hear it". Well and truly nerd-sniped, I went off and researched
+as much as I could, and the result is the following content.
 
 [Swing](https://en.wikipedia.org/wiki/Swing_music) is a genre of music, but most of us would
-struggle to dance West Coast Swing to a swing standard from e.g. [Benny
+struggle to dance WCS (West Coast Swing) to a swing standard from [Benny
 Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve?si=7469Fl34QROI8JRWH5sfnw), unless
-you came from Lindy Hop. Unlike Salsa or Mambo, West Coast Swing (WCS) hasn't attached itself to a
-singular musical genre, and pop charts today include rock, electronic, country and more, so
+you came from Lindy Hop. Unlike Salsa or Mambo, WCS hasn't attached itself to a
+singular musical genre, and pop charts today include rock, hip-hop, electronic, country and more, so
 how do we decide what to dance to? Many of us feel like we could identify a "West Coast Swing song"
 if we tried dancing to it, but if we had to explain why to someone else, I think we'd struggle.
 I've collected my thoughts on the subject here, to hopefully provide others with the tools to
@@ -32,12 +32,8 @@ walking", which is true, but not very useful if you want to compare cars. When I
 a song is a "West Coast Swing" song, I mean that it encourages dancing WCS *more* than
 it encourages dancing a different dance style. 
 
-Side note: I've put together [a
-playlist](https://open.spotify.com/playlist/3EI8AyArwmIyv55C1joiJS?si=7bf060fc0967409f)
-of songs with a variety of rhythms that go along with
-this post. If you want to test your intuition before reading on, listen to each song and write down
-whether you think it has a WCS rhythm or not. Then after reading, go back over the playlist and
-see if any of your answers change. (TODO make this paragraph in a different style) 
+<div class="alert alert-primary" role="alert">I've put together 
+<a href="https://open.spotify.com/playlist/3EI8AyArwmIyv55C1joiJS?si=7bf060fc0967409f" class="alert-link">a playlist</a> with different rhythms if you want to test your intuition before reading on. Listen to each song and write down whether you think it has a WCS rhythm or not. Then after reading this post, go back over the playlist and see if any of your answers change. </div>
 
 <br>
 
@@ -46,14 +42,14 @@ see if any of your answers change. (TODO make this paragraph in a different styl
 The most important aspect when matching a dance style to a song is the
 _rhythm_. I define rhythm as the relationship between different points in time, and the relative emphasis on those
 points. In music, those "points" would be different notes, and in dancing, the rhythm is carried by
-our bodies. Our West Coast Swing patterns have an innate rhythm (created by our movement) which we can
-compare and contrast with the musical rhythm (created by the instrumentation). 
+our bodies. Our WCS patterns have an innate rhythm (created by our movement) which we can
+compare with the musical rhythm (created by the instrumentation). 
 
 
 ### Rhythm in West Coast Swing
 
 We have two basic rhythms in WCS: a "walk-walk"
-(or `1 2`), and "tri-ple step", or `1 & 2`.  Is there any inherent emphasis on either the first or second beat of
+(or `1 2`), and "tri-ple step" (`1 & 2`).  Is there any inherent emphasis on either the first or second beat of
 a "walk-walk"? No, the beats are identical. How about a triple step? (try it out!). We should be able to see
 and/or feel that there is more emphasis on the `2` of the triple step than the `1` or `1&`. There
 are two main reasons why: Firstly, the 2 is the longest step, taking up a
@@ -69,8 +65,8 @@ static pose. The repeated turns build energy and tension, which is released when
 is stopped. The same thing is happening in our triple steps, but on a much shorter time scale. 
 
 Because the "walk-walk" doesn't have any emphasis, it can fit with anything, and doesn't offer much
-when trying to discern West Coast Swing Music. Thus, I'm going to consider the triple step our
-fundamental West Coast Swing rhythm. After all, who has ever heard of a
+when trying to discern WCS music. Thus, I'm going to consider the triple step our
+fundamental WCS rhythm. After all, who has ever heard of a
 [judge complaining about](https://open.spotify.com/episode/01d2qpiRjZOHzQJpBT9JG2?si=71ea490eab0344b5) "not enough walk-walks"?
 
 ### Rhythm in Music
@@ -86,16 +82,16 @@ strikes. Snare drums have a sharp, percussive sound, at a pitch that humans are 
 [_backbeat_](https://en.wikipedia.org/wiki/Beat_(music)#Backbeat), and is the foundation of
 jazz, blues, soul and hip hop music. (TODO check this)
 
-This brings us to the first metric that I use to help me tell if a song is a West Coast Swing song:
+This brings us to the first metric that I use to help me tell if a song is a WCS song:
 **emphasis**. Does the music emphasize (or accentuate) the same beats as WCS? Since we've already
-established WCS emphasizes the `2`, we can simply ask: "Does the music emphasize count 2?".
+established WCS emphasizes the `2`, we can simply ask: Does the music emphasize count 2?
 
 Let's listen to some music and see what we come up with: Here is "Maps" by Maroon 5:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4gbVRS8gloEluzf0GzDOFc?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 Notice how the every beat has the same drum hit? This rhythm is called a four-on-the-floor,
-which means that every beat in a bar has the same rhythm. You _can_ West Coast Swing to this,
+which means that every beat in a bar has the same rhythm. You _can_ WCS to this,
 but this rhythm is more suited to something like [Modern Jive](https://en.wikipedia.org/wiki/Modern_Jive).
 
 WCS rhythms are typically counted in groups of two because it's the length of both the walk-walk and
@@ -107,27 +103,28 @@ A different rhythm is used in "Play that Song" by Train:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/77hjM9bMmgfTGJXv14UFmi?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 While the snare drum can be heard on every `2`, if you listen closely you'll notice that the
-vocals emphasize the `1`. This repeated emphasis on the `1` detracts from the
-`2`, so while it's still dancable, I don't consider this a natural West Coast Swing song. 
+vocals emphasize the `1` (an example of [6/8
+meter](https://en.wikipedia.org/wiki/Time_signature#Characteristics)).
+This repeated emphasis on every `1` detracts from the `2`. so while it's still dancable, I don't consider this a natural West Coast Swing song. 
 
 To summarize our first metric, we can say:
 
 
 > A West Coast Swing song should emphasize every
-second beat, to match the emphasis of our triple step
+second beat, to match the emphasis of a triple step
 
 
 <br>
 
----
+<hr>
 
 <br>
 
 ## Timing
 
-How do we measure timing in West Coast Swing? Most dancers, at least when looking at basics,
+How do we measure timing in West Coast Swing? Most dancers, at least when talking about basic patterns,
 would say "we look at the strike of the foot on the floor". But what are we comparing each foot
-strike to? If two people are dancing perfectly even triple steps, starting at different times, how do
+strike to? If two people are dancing perfectly even triple steps, but starting at different times, how do
 you tell who is off time? We must compare the timing of the
 triple steps, to the timing of the music. This brings me to the second metric that I use for
 discerning if a song is a West Coast Swing song or not: _Timing_. How compatible is the _timing_ of
@@ -138,8 +135,8 @@ Young" again:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4SNtyKNyYJ8ERT7YLlnFBr?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-In this song, there is ba`ss` drum on count `1`, snare on count `2`, and the hi-hat in between (`1&`
-and `2&`). In total, the song marks `1`, `1&`, `2`, and "2&". A West Coast Swing triple step marks `1`,
+In this song, there is bass drum on count `1`, snare on count `2`, and the hi-hat in between (`1&`
+and `2&`). In total, the song marks `1`, `1&`, `2`, and `2&`. A West Coast Swing triple step marks `1`,
 `1&` and `2`, so by doing our basic footwork rhythm, we are always "on time" with the music. 
 
 Here is another song I often use: "I Got the Blues", by Brother Yusef
@@ -184,11 +181,12 @@ Now for a totally different rhythm: "Shape of You" by Ed Sheeran
 
 
 The dominant rhythm this song uses is called a [tresillo](https://en.wikipedia.org/wiki/Tresillo_(rhythm)), which comes
-from Afro-Cuban music and made its way into modern pop through artists songs such as Kygo and
- ["Sorry"](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF?si=f200a928bbde4808) by Justin
+from Afro-Cuban music and made its way into modern pop through artists songs such as
+[Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4?si=mlWrvr_MQ3GpxayUXRTSnA)
+ and ["Sorry"](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF?si=f200a928bbde4808) by Justin
 Bieber. A tresillo marks the `1`, `1a`, and `2&`. 
 
-How does the tresillo fit with West Coast Swing timing? Both rhythms feature a note on `1`, but none of the other
+How does the tresillo fit with WCS timing? Both rhythms feature a note on `1`, but none of the other
 counts align. Some dancers might suggest a using a swung triple, e.g. `1..a2`, which allows us
 two of three steps matching the music. but I've never actually seen anyone do this in real life. Dancing `1..a2`
 increases emphasis on the `2`, but a tresillo rhythm doesn't marked the `2` at all. Most people end up
@@ -220,17 +218,18 @@ The rhythm of this song is a tresillo mixed with a backbeat (or four-on-the-floo
 which results in `1..a2.&.1..a2.&.`. While the addition of the backbeat/four-on-the-floor gives us a `2` that
 helps with our **timing** metric, the overall **emphasis** of this rhythm is not the same as a WCS
 triple step. The normally-dominant `2` is overshadowed by the
-`2&`, while `1` takes over as the longest, and thus most emphasized note. This a rhythm I
-would expect for Samba or Zouk, but not West Coast Swing. 
+`2&`, while `1` takes over as the longest and most emphasized note. This a rhythm I
+would expect for Samba or Zouk, but not for West Coast Swing. 
 
 The tresillo + backbeat rhythm exemplifies how note duration and fast->slow transitions can emphasize different notes in
-the music, as mentioned earlier. The longest note in a tresillo + backbeat is the `1` (with a duration 3/4ths of beat), but the fast->slow
-transition occurs in the `a2`. 
+the music, as mentioned [earlier](#rhythm-in-west-coast-swing). The longest note in a tresillo +
+backbeat is the `1` (taking 3/4ths of a beat), but the fast->slow
+transition occurs in the `a2->2`. 
 
 To summarize the **timing** metric: 
 
 > "The timing of the rhythm in the music should be compatible
-with the timing of a basic triple ste".
+with the timing of a basic triple step".
 
 ## Conclusion
 
@@ -239,7 +238,7 @@ feel like a "West Coast Swing song" to you. However it's worth remembering that 
 an exact science, and an individual's perception of rhythm will vary. Pop music is created for listening to, not
 dancing, so any structure we try to impose on music is going to be an approximation at best.  
 
-One of the obvious follow up questions you might have after reading this is "So should we dance WCS
+One of the obvious follow up questions you might have after reading this is "Should we dance WCS
 to non-WCS music?", and I've been avoiding this question because people tend to get rather...
 _passionate_ about it. But maybe I can provide some insight without starting
 yet-another-internet-argument.
@@ -250,8 +249,7 @@ fit. That said, if you ever have the responsibility of choosing music that other
 to, you should keep in mind the context in which it will be played. 
 
 What do I mean by context? Well, who's your audience? How experienced are they? Is it a competition? Or a social event? If you're
-DJing at 4am on the Sunday of an event, then your job is to keep people on the dance floor, and so
+DJing at 4am on the Sunday of an event, then you're likely trying to keep people on the dance floor; so
 you should play whatever achieves that. But if you're teaching a beginner class and you're telling
 the students "we triple step on 1-&-2", then your music should probably have a "1-&-2" that your
-students can follow along to! If you're DJing a competition, beware that your music choices might
-create conflict between dancing West Coast Swing, and dancing to the music.
+students can follow along to!

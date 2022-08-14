@@ -21,9 +21,10 @@
 title: Music For Westies
 email: info@musicforwesties.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Music theory for west coast swing dancers
+  Music theory for West Coast Swing dancers
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://musicforwesties.com" # the base hostname & protocol for your site, e.g. http://example.com
+author: Joel Gibson
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -32,6 +33,7 @@ theme: minima
 show_excerpts: true
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
 
 # Exclude from processing.
 # The following items will not be processed, by default.

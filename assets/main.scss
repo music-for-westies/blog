@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+// Required
+@import "bootstrap/functions";
+
+// Default variable overrides for bootstrap goes here
+// $body-bg: #000;
+// $body-color: #111;
+
+// Required
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+
+// optional bootstrap components
+@import "bootstrap/alert";
