@@ -7,16 +7,14 @@ categories:
 hidden: true
 ---
 
-# What is West Coast Swing Music?
-
-Some time ago, we had someone DJ for the first time at one of our regular weekly West Coast Swing
+Some time ago, we had a new DJ at one of our regular weekly West Coast Swing
 socials. At a café afterwards, they asked us the other staff and DJs (including myself): "What makes
 a song a good West Coast Swing Song? I understand too slow or too fast, but I can't tell why some
 rhythms work and some don't". Surprisingly, none of us could articulate what makes a West Coast
 Swing rhythm beyond "I know it when I hear it". Well and truly nerd-sniped, I went off and researched
 as much as I could, and the result is the following content.
 
-[Swing](https://en.wikipedia.org/wiki/Swing_music) is a genre of music, but most of us would
+Swing is a genre of music[^swing_music], but most of us would
 struggle to dance WCS (West Coast Swing) to a swing standard from [Benny
 Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve?si=7469Fl34QROI8JRWH5sfnw), unless
 you came from Lindy Hop. Unlike Salsa or Mambo, WCS hasn't attached itself to a
@@ -48,26 +46,30 @@ compare with the musical rhythm (created by the instrumentation).
 
 ### Rhythm in West Coast Swing
 
-We have two basic rhythms in WCS: a "walk-walk"
-(or `1 2`), and "tri-ple step" (`1 & 2`).  Is there any inherent emphasis on either the first or second beat of
-a "walk-walk"? No, the beats are identical. How about a triple step? (try it out!). We should be able to see
-and/or feel that there is more emphasis on the `2` of the triple step than the `1` or `1&`. There
-are two main reasons why: Firstly, the 2 is the longest step, taking up a
-whole beat, whereas the `1` and `1&` are only a half-beat each. Secondly, there is a speed change on
-`2`. The `1`, and `1&` are faster, but the `2` is a full beat, slower than the other beats. This
+There are two basic rhythms in WCS: a "walk-walk"
+(or `1 - 2`), and "tri-ple step" (`1 & 2`).  Is there any inherent emphasis on either the first or second beat of
+a "walk-walk"? No, the notes are identical. How about a triple step? (try dancing it!). We should be able to see
+and/or feel that there is more emphasis on the `2` of the triple step than the `1` or `1&`. 
+
+There are two main reasons why the `2` is more emphasized: Firstly, the 2 is the longest step, taking up a
+whole beat, whereas the `1` and `1&` are only a half-beat each. Secondly, there is a speed change
+from `1&` to `2`. The `1`, and `1&` are faster, but the `2` is a full beat, slower than the other beats. This
 change in speed helps create emphasis by building tension/energy during the faster steps, and
 releasing it on the transition to the slow step. These two reasons appear
-identical in this case, but when we look at other rhythms later on, we'll that they can produce different
+identical in this case, but when we look at other rhythms later on, we'll see that they can produce different
 results.
 
-as an example, think about how a dance partnership might hit a phrase change by doing a double outside turn into a
-static pose. The repeated turns build energy and tension, which is released when the motion
-is stopped. The same thing is happening in our triple steps, but on a much shorter time scale. 
+<div class="alert alert-secondary" role="alert">
+Consider how a partnership might hit a phrase change by dancing repeated turns into a
+relatively stationary pose. The repeated turns are building energy and tension, which is released when the motion
+is stopped. The same thing is happening in our triples, but on a much shorter time scale. 
+</div>
 
-Because the "walk-walk" doesn't have any emphasis, it can fit with anything, and doesn't offer much
-when trying to discern WCS music. Thus, I'm going to consider the triple step our
+
+Because the "walk-walk" doesn't have any emphasis, it can fit with practically any rhythm,
+and doesn't help us when trying to discern WCS music. Thus, I'm going to consider the triple step our
 fundamental WCS rhythm. After all, who has ever heard of a
-[judge complaining about](https://open.spotify.com/episode/01d2qpiRjZOHzQJpBT9JG2?si=71ea490eab0344b5) "not enough walk-walks"?
+judge complaining about "not enough walk-walks"?[^what_judges_want]
 
 ### Rhythm in Music
 
@@ -76,11 +78,15 @@ classes because of the clear rhythm: "So Young" by Portugal the Man.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4SNtyKNyYJ8ERT7YLlnFBr?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-What beat stands out the most? Most of us would say every second beat, where the snare drum
-strikes. Snare drums have a sharp, percussive sound, at a pitch that humans are sensitive to
-(TODO link). The repeated accent on every second beat is called a
+I've transcribed the drums below:
+
+![rock_score](/assets/Characteristic_rock_drum_pattern.png)
+
+What note stands out the most? Most of us would say every second beat, count `2`, where the snare drum
+strikes. Snare drums have a sharp, percussive sound, at a pitch that humans are more sensitive to
+[^A_weighting]. The repeated accent on every second beat is called a
 [_backbeat_](https://en.wikipedia.org/wiki/Beat_(music)#Backbeat), and is the foundation of
-jazz, blues, soul and hip hop music. (TODO check this)
+jazz, blues, soul and hip hop music [^backbeat_history]<sup>,</sup>[^backbeat_lit_review]. 
 
 This brings us to the first metric that I use to help me tell if a song is a WCS song:
 **emphasis**. Does the music emphasize (or accentuate) the same beats as WCS? Since we've already
@@ -90,13 +96,14 @@ Let's listen to some music and see what we come up with: Here is "Maps" by Maroo
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4gbVRS8gloEluzf0GzDOFc?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-Notice how the every beat has the same drum hit? This rhythm is called a four-on-the-floor,
+Notice how the every beat has the same drum hit? This rhythm is called a four-on-the-floor*,
 which means that every beat in a bar has the same rhythm. You _can_ WCS to this,
 but this rhythm is more suited to something like [Modern Jive](https://en.wikipedia.org/wiki/Modern_Jive).
 
-WCS rhythms are typically counted in groups of two because it's the length of both the walk-walk and
-triple step. Musicians on the other hand, usually count in groups of four. More on this in a
-future post.
+<div class="alert alert-secondary" role="alert">
+*musicians usually count in four-beat bars, hence "four-on-the-floor". WCS rhythms (walk-walks and triple steps) are only two beats long, so this analysis is based around in 2-beat sections. 
+</div>
+
 
 A different rhythm is used in "Play that Song" by Train:
 
@@ -148,27 +155,27 @@ Notice how the "&" counts have been shifted towards the end of the beat? Rather 
 it more resembles `1...&.2...&.`. This is [_swung
 music_](https://en.wikipedia.org/wiki/Swing_(jazz_performance_style)#Genres_using_swing_rhythm),
 which is often notated with an `a` replacing the `&`, e.g. `1..a2..a1..a2` instead
-of `1.&.2.&.1.&.2`. We can still 
-easily dance a WCS rhythm to this, as we can delay the middle step of our triple steps to
-match the timing of the `a` count. 
+of `1.&.2.&.1.&.2`. We can still dance WCS triples to this, 
+as we can delay the middle step of our triple steps to match the timing of the `a` count. 
 
-Side note: Original forms of West Coast Swing would have originally been danced,
+<div class="alert alert-secondary" role="alert">
+Original forms of West Coast Swing would have likely only been danced with swung triples,
 since the vast majority of jazz, blues and swing music is swung. 
+</div>
 
 Now for a more complicated timing structure, "Hold the Line" by TOTO:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4aVuWgvD0X63hcOCnZtNFA?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-This song marks three evenly-spaced notes (on the piano and hi-hat) for every beat, rather than just
-2, which are called (musical) [triplets](https://en.wikipedia.org/wiki/Tuplet#Triplet). This is often notated
+This song marks three evenly-spaced notes (on the piano and hi-hat) for every beat, which are called (musical) [triplets](https://en.wikipedia.org/wiki/Tuplet#Triplet). This is often notated
 `1 e a 2 e a` but it can also be considered a 12/8, or "shuffle" rhythm, where you could count "**1** 2 3
 **4** 5 6 **7** 8 9 **10** 11 12", but we'll stick with the `1 e a 2 e a` notation for now. This rhythm
 doesn't affect our timing much, because we can still dance on the `1 . a 2`, by just ignoring the `e`.
 If you tried to dance on `1 e - 2`, it would feel a bit weird, because the biggest change in speed now
-happens on the "a", which has the effect of shifting some of the emphasis away from the `2`. 
+happens on the `a`, which has the effect of shifting some of the emphasis away from the `2`. 
 
-I don't consider "Hold the Line" a great song to dance West Coast Swing Song to other reasons, but it's one
-of the clearest examples of the 12/8 rhythm. Other, more familiar songs with a 12/8 rhythm
+I don't consider "Hold the Line" a great song WCS Song for other reasons, but
+it's a clear example of the 12/8 rhythm. More familiar songs with a 12/8 rhythm
 might be [It serves you right to suffer - The Avener Rework](https://open.spotify.com/track/5i4m88OA1OrDx3XSfa2xHE?si=5cada6b700cc41fd) (listen to the
 hi-hat) or [Right Round](https://open.spotify.com/track/5i4m88OA1OrDx3XSfa2xHE?si=5cada6b700cc41fd)
 by Flo Rida (where the triplets are carried by the vocals).
@@ -231,6 +238,12 @@ To summarize the **timing** metric:
 > "The timing of the rhythm in the music should be compatible
 with the timing of a basic triple step".
 
+<br>
+
+<hr>
+
+<br>
+
 ## Conclusion
 
 Hopefully between the _emphasis_ and _timing_ metrics you can now explain why a song may or may not
@@ -253,3 +266,18 @@ DJing at 4am on the Sunday of an event, then you're likely trying to keep people
 you should play whatever achieves that. But if you're teaching a beginner class and you're telling
 the students "we triple step on 1-&-2", then your music should probably have a "1-&-2" that your
 students can follow along to!
+
+
+### References
+
+[^swing_music]: [https://en.wikipedia.org/wiki/Swing_music](https://en.wikipedia.org/wiki/Swing_music)
+
+[^what_judges_want]: [What Judges Want Podcast, Ep.
+    3](https://open.spotify.com/episode/01d2qpiRjZOHzQJpBT9JG2?si=71ea490eab0344b5)
+
+[^A_weighting]: [https://en.wikipedia.org/wiki/A-weighting](https://en.wikipedia.org/wiki/A-weighting)
+
+[^backbeat_history]: Tamlyn G. N. (1998). The Big Beat: Origins and Development of Snare Backbeat and other
+    Accompanimental Rhythms in Rock’n’Roll
+
+[^backbeat_lit_review]: [https://www.ethanhein.com/wp/2013/the-backbeat-a-literature-review/](https://www.ethanhein.com/wp/2013/the-backbeat-a-literature-review/)
