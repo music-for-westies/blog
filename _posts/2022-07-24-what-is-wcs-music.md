@@ -7,6 +7,7 @@ categories:
 hidden: true
 ---
 
+
 Some time ago, we had a new DJ at one of our regular weekly West Coast Swing
 socials. At a café afterwards, they asked us the other staff and DJs (including myself): "What makes
 a song a good West Coast Swing Song? I understand too slow or too fast, but I can't tell why some
@@ -78,9 +79,23 @@ classes because of the clear rhythm: "So Young" by Portugal the Man.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4SNtyKNyYJ8ERT7YLlnFBr?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-I've transcribed the drums below:
-
-![rock_score](/assets/Characteristic_rock_drum_pattern.png)
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Drum Score
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        If you're familiar with reading music, I'll show transcribed drum rhythms for each song
+        in a fold-out below each song
+        <br><br>
+        <p><img src="/assets/img/so_young.svg" alt="'So Young' drum transcript"></p>
+      </div>
+    </div>
+  </div>
+</div>  
 
 What note stands out the most? Most of us would say every second beat, count `2`, where the snare drum
 strikes. Snare drums have a sharp, percussive sound, at a pitch that humans are more sensitive to
