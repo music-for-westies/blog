@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   width="86.408165mm"
+   height="18.09664mm"
+   viewBox="0 0 49.171019 10.297987"
+   id="svg1449"
+   sodipodi:docname="play_that_song.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1453" />
+  <sodipodi:namedview
+     id="namedview1451"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.38930275"
+     inkscape:cx="381.4512"
+     inkscape:cy="330.0773"
+     inkscape:window-width="1128"
+     inkscape:window-height="688"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1449" />
+  <style
+     type="text/css"
+     id="style1161"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <!-- Page: 1/1 -->
+  <g
+     transform="translate(11.811218,7.9646875)"
+     id="g1165">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="37.309799"
+       y2="0"
+       id="line1163" />
+  </g>
+  <g
+     transform="translate(11.811218,6.9646875)"
+     id="g1169">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="37.309799"
+       y2="0"
+       id="line1167" />
+  </g>
+  <g
+     transform="translate(11.811218,5.9646875)"
+     id="g1173">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="37.309799"
+       y2="0"
+       id="line1171" />
+  </g>
+  <g
+     transform="translate(11.811218,4.9646875)"
+     id="g1177">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="37.309799"
+       y2="0"
+       id="line1175" />
+  </g>
+  <g
+     transform="translate(11.811218,3.9646875)"
+     id="g1181">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="37.309799"
+       y2="0"
+       id="line1179" />
+  </g>
+  <g
+     transform="translate(32.742118,5.9646875)"
+     id="g1185">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect1183" />
+  </g>
+  <g
+     transform="translate(48.981018,5.9646875)"
+     id="g1189">
+    <rect
+       x="0"
+       y="-2"
+       width="0.19"
+       height="4"
+       ry="0.0000"
+       fill="currentColor"
+       id="rect1187" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:22:4:5"
+     id="a1197"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(43.7779,5.3)"
+       id="g1195">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text1193"><tspan
+           id="tspan1191">2</tspan></text>
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:20:2:3"
+     id="a1203"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(38.7695,8.31)"
+       id="g1201">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1199" />
+    </g>
+  </a>
+  <g
+     transform="translate(37.593518,5.9646875)"
+     id="g1207">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1205" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:21:2:3"
+     id="a1213"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(41.2737,8.31)"
+       id="g1211">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1209" />
+    </g>
+  </a>
+  <g
+     transform="translate(40.097718,5.9646875)"
+     id="g1217">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1215" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:19:5:6"
+     id="a1225"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(36.2653,5.3057)"
+       id="g1223">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text1221"><tspan
+           id="tspan1219">1</tspan></text>
+    </g>
+  </a>
+  <g
+     transform="translate(18.785418,2.1546875)"
+     id="g1229">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.2 0.04,-0.2 5.0984,-0.2 5.0984,0.2 "
+       id="polygon1227" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:19:2:3"
+     id="a1235"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(36.2653,8.31)"
+       id="g1233">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1231" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:27:21:22"
+     id="a1241"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(36.2653,11.31)"
+       id="g1239">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path1237" />
+    </g>
+  </a>
+  <g
+     transform="translate(35.089318,5.9646875)"
+     id="g1245">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1243" />
+  </g>
+  <g
+     transform="translate(35.604318,7.4646875)"
+     id="g1249">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 112,31 112,0 112,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path1247" />
+  </g>
+  <g
+     transform="translate(33.915118,5.9646875)"
+     id="g1253">
+    <rect
+       x="-0.064999998"
+       y="1.6861"
+       width="0.13"
+       height="2.6472001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1251" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:24:2:3"
+     id="a1259"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(48.8863,8.31)"
+       id="g1257">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1255" />
+    </g>
+  </a>
+  <g
+     transform="translate(47.710318,5.9646875)"
+     id="g1263">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1261" />
+  </g>
+  <g
+     transform="translate(42.536918,2.1546875)"
+     id="g1267">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.2 0.04,-0.2 5.1984,-0.2 5.1984,0.2 "
+       id="polygon1265" />
+  </g>
+  <g
+     transform="translate(35.024318,2.1546875)"
+     id="g1271">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.2 0.04,-0.2 5.0984,-0.2 5.0984,0.2 "
+       id="polygon1269" />
+  </g>
+  <g
+     transform="translate(26.298018,2.1546875)"
+     id="g1275">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.2 0.04,-0.2 5.1984,-0.2 5.1984,0.2 "
+       id="polygon1273" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:27:32:33"
+     id="a1281"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(43.7779,9.31)"
+       id="g1279">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path1277" />
+    </g>
+  </a>
+  <g
+     transform="translate(42.601918,5.9646875)"
+     id="g1285">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1283" />
+  </g>
+  <g
+     transform="translate(43.116918,5.4646875)"
+     id="g1289">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 112,31 112,0 112,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path1287" />
+  </g>
+  <g
+     transform="translate(41.427718,5.9646875)"
+     id="g1293">
+    <rect
+       x="-0.064999998"
+       y="-0.31389999"
+       width="0.13"
+       height="3.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1291" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:22:2:3"
+     id="a1299"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(43.7779,8.31)"
+       id="g1297">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1295" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:23:2:3"
+     id="a1305"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(46.3821,8.31)"
+       id="g1303">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1301" />
+    </g>
+  </a>
+  <g
+     transform="translate(45.206118,5.9646875)"
+     id="g1309">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1307" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:13:2:3"
+     id="a1315"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(20.0264,8.31)"
+       id="g1313">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1311" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:14:2:3"
+     id="a1321"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(22.5306,8.31)"
+       id="g1319">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1317" />
+    </g>
+  </a>
+  <g
+     transform="translate(21.354618,5.9646875)"
+     id="g1325">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1323" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:13:5:6"
+     id="a1333"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(20.0264,5.3057)"
+       id="g1331">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text1329"><tspan
+           id="tspan1327">1</tspan></text>
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:15:2:3"
+     id="a1339"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(25.0348,8.31)"
+       id="g1337">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1335" />
+    </g>
+  </a>
+  <g
+     transform="translate(23.858818,5.9646875)"
+     id="g1343">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1341" />
+  </g>
+  <g
+     transform="translate(11.941218,5.9646875)"
+     id="g1347">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 490,-250 h -92 c -6,0 -10,4 -10,10 v 480 c 0,6 4,10 10,10 h 92 c 6,0 10,-4 10,-10 v -480 c 0,-6 -4,-10 -10,-10 z m -220,0 h -93 c -6,0 -10,4 -10,10 v 480 c 0,6 4,10 10,10 h 93 c 6,0 10,-4 10,-10 v -480 c 0,-6 -4,-10 -10,-10 z"
+       fill="currentColor"
+       id="path1345" />
+  </g>
+  <g
+     transform="translate(18.850418,5.9646875)"
+     id="g1351">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1349" />
+  </g>
+  <g
+     transform="translate(19.365418,7.4646875)"
+     id="g1355">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 112,31 112,0 112,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path1353" />
+  </g>
+  <g
+     transform="translate(17.676218,5.9646875)"
+     id="g1359">
+    <rect
+       x="-0.064999998"
+       y="1.6861"
+       width="0.13"
+       height="2.6472001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1357" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:27:2:3"
+     id="a1365"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(20.0264,11.31)"
+       id="g1363">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path1361" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:17:2:3"
+     id="a1371"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(30.1432,8.31)"
+       id="g1369">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1367" />
+    </g>
+  </a>
+  <g
+     transform="translate(28.967218,5.9646875)"
+     id="g1375">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1373" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:18:2:3"
+     id="a1381"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(32.6474,8.31)"
+       id="g1379">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1377" />
+    </g>
+  </a>
+  <g
+     transform="translate(31.471418,5.9646875)"
+     id="g1385">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1383" />
+  </g>
+  <g
+     transform="translate(5.0581182,3.7848875)"
+     id="g1391">
+    <text
+       font-family="serif"
+       font-size="2.2001px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text1389"><tspan
+         id="tspan1387">hi-hat</tspan></text>
+  </g>
+  <g
+     transform="translate(5.3312182,6.7848875)"
+     id="g1397">
+    <text
+       font-family="serif"
+       font-size="2.2001px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text1395"><tspan
+         id="tspan1393">snare</tspan></text>
+  </g>
+  <g
+     transform="translate(-0.06338179,9.7848875)"
+     id="g1403">
+    <text
+       font-family="serif"
+       font-size="2.2001px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text1401"><tspan
+         id="tspan1399">bass drum</tspan></text>
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:16:4:5"
+     id="a1411"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(27.539,5.3)"
+       id="g1409">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text1407"><tspan
+           id="tspan1405">2</tspan></text>
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:16:2:3"
+     id="a1417"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(27.539,8.31)"
+       id="g1415">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 163,36 119,97 c 3,2 6,3 9,3 3,0 7,-1 10,-3 l 20,-16 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 L 206,0 321,-93 c 3,-3 5,-8 5,-12 0,-4 -2,-9 -5,-12 l -20,-16 c -3,-2 -7,-3 -10,-3 -3,0 -6,1 -9,3 L 163,-36 44,-133 c -3,-2 -6,-3 -9,-3 -3,0 -7,1 -10,3 l -20,16 c -3,3 -5,8 -5,12 0,4 2,9 5,12 L 120,0 5,93 c -3,3 -5,8 -5,12 0,4 2,9 5,12 l 20,16 c 3,2 7,3 10,3 3,0 6,-1 9,-3 z"
+         fill="currentColor"
+         id="path1413" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./play_that_song.ly:27:13:14"
+     id="a1423"
+     transform="translate(-2.4151818,-3.8453125)">
+    <g
+       transform="translate(27.539,9.31)"
+       id="g1421">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path1419" />
+    </g>
+  </a>
+  <g
+     transform="translate(26.363018,5.9646875)"
+     id="g1427">
+    <rect
+       x="-0.064999998"
+       y="-3.8099999"
+       width="0.13"
+       height="1.8896"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1425" />
+  </g>
+  <g
+     transform="translate(26.878018,5.4646875)"
+     id="g1431">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 112,31 112,0 112,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path1429" />
+  </g>
+  <g
+     transform="translate(25.188818,5.9646875)"
+     id="g1435">
+    <rect
+       x="-0.064999998"
+       y="-0.31389999"
+       width="0.13"
+       height="3.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1433" />
+  </g>
+  <g
+     transform="translate(26.555418,161.26089)"
+     id="g1441">
+    <a
+       xlink:href="https://lilypond.org/"
+       id="a1439">
+      <rect
+         x="0"
+         y="-0.48879999"
+         width="61.560398"
+         height="2.1603"
+         fill="none"
+         stroke="none"
+         stroke-width="0"
+         id="rect1437" />
+    </a>
+  </g>
+  <g
+     transform="translate(26.555418,161.26089)"
+     id="g1447">
+    <text
+       font-family="serif"
+       font-size="2.2001px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text1445"><tspan
+         id="tspan1443">Music engraving by LilyPond 2.22.1—www.lilypond.org</tspan></text>
+  </g>
+</svg>

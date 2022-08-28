@@ -31,8 +31,8 @@ walking", which is true, but not very useful if you want to compare cars. When I
 a song is a "West Coast Swing" song, I mean that it encourages dancing WCS *more* than
 it encourages dancing a different dance style. 
 
-<div class="alert alert-primary" role="alert">I've put together 
-<a href="https://open.spotify.com/playlist/3EI8AyArwmIyv55C1joiJS?si=7bf060fc0967409f" class="alert-link">a playlist</a> with different rhythms if you want to test your intuition before reading on. Listen to each song and write down whether you think it has a WCS rhythm or not. Then after reading this post, go back over the playlist and see if any of your answers change. </div>
+<div class="alert alert-primary" role="alert">I've put together a
+<u><a href="https://open.spotify.com/playlist/3EI8AyArwmIyv55C1joiJS?si=7bf060fc0967409f" class="alert-link">playlist</a></u> with different rhythms if you want to test your intuition before reading on. Listen to each song and write down whether you think it has a WCS rhythm or not. Then after reading this post, go back over the playlist and see if any of your answers change. </div>
 
 <br>
 
@@ -83,15 +83,15 @@ classes because of the clear rhythm: "So Young" by Portugal the Man.
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Drum Score
+        Drum Transcription: So Young - Portugal. The Man
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        If you're familiar with reading music, I'll show transcribed drum rhythms for each song
+        If you're familiar with reading music, I'll show transcribed rhythms 
         in a fold-out below each song
         <br><br>
-        <p><img src="/assets/img/so_young.svg" alt="'So Young' drum transcript"></p>
+        <p><img src="/assets/img/so_young.svg" alt="'So Young' rhythm transcript"></p>
       </div>
     </div>
   </div>
@@ -111,6 +111,21 @@ Let's listen to some music and see what we come up with: Here is "Maps" by Maroo
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4gbVRS8gloEluzf0GzDOFc?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+        Rhythm Transcription: Maps - Maroon 5
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <p><img src="/assets/img/maps.svg" alt="'Maps' rhythm transcript"></p>
+      </div>
+    </div>
+  </div>
+</div>  
+
 Notice how the every beat has the same drum hit? This rhythm is called a four-on-the-floor*,
 which means that every beat in a bar has the same rhythm. You _can_ WCS to this,
 but this rhythm is more suited to something like [Modern Jive](https://en.wikipedia.org/wiki/Modern_Jive).
@@ -123,6 +138,21 @@ but this rhythm is more suited to something like [Modern Jive](https://en.wikipe
 A different rhythm is used in "Play that Song" by Train:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/77hjM9bMmgfTGJXv14UFmi?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+        Rhythm Transcription: Play that Song - Train
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <p><img src="/assets/img/play_that_song.svg" alt="'Play that Song' rhythm transcript"></p>
+      </div>
+    </div>
+  </div>
+</div>  
 
 While the snare drum can be heard on every `2`, if you listen closely you'll notice that the
 vocals emphasize the `1` (an example of [6/8
@@ -165,6 +195,21 @@ Here is another song I often use: "I Got the Blues", by Brother Yusef
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4IKP2r5yvufoDdamX5YSan?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingFour">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+        Rhythm Transcription: I Got the Blues - Brother Yusef
+      </button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <p><img src="/assets/img/i_got_the_blues.svg" alt="'I Got the Blues' rhythm transcript"></p>
+      </div>
+    </div>
+  </div>
+</div>  
+
 
 Notice how the "&" counts have been shifted towards the end of the beat? Rather than evenly spaced `1..&..2..&..`,
 it more resembles `1...&.2...&.`. This is [_swung
@@ -181,6 +226,22 @@ since the vast majority of jazz, blues and swing music is swung.
 Now for a more complicated timing structure, "Hold the Line" by TOTO:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4aVuWgvD0X63hcOCnZtNFA?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingFive">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+        Rhythm Transcription: Hold the Line - TOTO
+      </button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <p><img src="/assets/img/hold_the_line.svg" alt="'Hold the Line' rhythm transcript"></p>
+      </div>
+    </div>
+  </div>
+</div>  
+
 
 This song marks three evenly-spaced notes (on the piano and hi-hat) for every beat, which are called (musical) [triplets](https://en.wikipedia.org/wiki/Tuplet#Triplet). This is often notated
 `1 e a 2 e a` but it can also be considered a 12/8, or "shuffle" rhythm, where you could count "**1** 2 3
@@ -201,6 +262,21 @@ Now for a totally different rhythm: "Shape of You" by Ed Sheeran
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7qiZfU4dY1lWllzX7mPBI3?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingSix">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+        Rhythm Transcription: Shape of You - Ed Sheeran
+      </button>
+    </h2>
+    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <p><img src="/assets/img/shape-of-you.svg" alt="'Shape of You' rhythm transcript"></p>
+      </div>
+    </div>
+  </div>
+</div>  
+
 
 The dominant rhythm this song uses is called a [tresillo](https://en.wikipedia.org/wiki/Tresillo_(rhythm)), which comes
 from Afro-Cuban music and made its way into modern pop through artists songs such as
@@ -208,8 +284,13 @@ from Afro-Cuban music and made its way into modern pop through artists songs suc
  and ["Sorry"](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF?si=f200a928bbde4808) by Justin
 Bieber. A tresillo marks the `1`, `1a`, and `2&`. 
 
+
 How does the tresillo fit with WCS timing? Both rhythms feature a note on `1`, but none of the other
-counts align. Some dancers might suggest a using a swung triple, e.g. `1..a2`, which allows us
+counts align. 
+
+<img src="/assets/img/shape-vs-triple.svg" alt="'Shape of You' v.s. triple step rhythm">
+
+Some dancers might suggest a using a swung triple, e.g. `1..a2`, which allows us
 two of three steps matching the music. but I've never actually seen anyone do this in real life. Dancing `1..a2`
 increases emphasis on the `2`, but a tresillo rhythm doesn't marked the `2` at all. Most people end up
 dancing evenly divided triple steps (`1.&.2`), which is smoother, but it means two out of three of your steps
@@ -222,6 +303,21 @@ rhythm:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ULRlgiSPSKTaJN1vU9yso?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingSeven">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+        Rhythm Transcription: Shape of You (Acoustic) - Ed Sheeran
+      </button>
+    </h2>
+    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <p><img src="/assets/img/shape-of-you-acoustic.svg" alt="'Shape of You (Acoustic)' rhythm transcript"></p>
+      </div>
+    </div>
+  </div>
+</div>  
+
 This version *does* mark the `2`, with a `1a2` rhythm, making it immediately more natural
 for dancing WCS.
 
@@ -230,6 +326,21 @@ West Coast Swing. For example, "Josephine" has a persistent tresillo played by a
 enough to stay in the background and doesn't have much of an effect on the prominent backbeat. 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2V5vmvIwxqVizuaYJgrmlE?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingEight">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
+        Rhythm Transcription: Josephine - Ritual, Lisa Hannigan
+      </button>
+    </h2>
+    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <p><img src="/assets/img/josephine.svg" alt="'Josephine' rhythm transcript"></p>
+      </div>
+    </div>
+  </div>
+</div>  
 
 Not all tresillos are as subtle though, and in some cases they can shift the resulting emphasis of
 the song. For example, "Kiss and Make Up" by Dua Lipa:

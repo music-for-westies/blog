@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   width="57.325577mm"
+   height="20.957697mm"
+   viewBox="0 0 32.62142 11.926087"
+   id="svg2691"
+   sodipodi:docname="shape-vs-triple.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2695" />
+  <sodipodi:namedview
+     id="namedview2693"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="380.15792"
+     inkscape:cy="161.58663"
+     inkscape:window-width="1128"
+     inkscape:window-height="688"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2691" />
+  <style
+     type="text/css"
+     id="style2507"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <!-- Page: 1/1 -->
+  <g
+     transform="translate(11.708818,7.5813875)"
+     id="g2511">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="20.8626"
+       y2="0"
+       id="line2509" />
+  </g>
+  <g
+     transform="translate(11.708818,6.5813875)"
+     id="g2515">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="20.8626"
+       y2="0"
+       id="line2513" />
+  </g>
+  <g
+     transform="translate(11.708818,5.5813875)"
+     id="g2519">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="20.8626"
+       y2="0"
+       id="line2517" />
+  </g>
+  <g
+     transform="translate(11.708818,4.5813875)"
+     id="g2523">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="20.8626"
+       y2="0"
+       id="line2521" />
+  </g>
+  <g
+     transform="translate(11.708818,3.5813875)"
+     id="g2527">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="20.8626"
+       y2="0"
+       id="line2525" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:19:37:38"
+     id="a2533"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(28.0348,11.4267)"
+       id="g2531">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="M 72,-250 189,76 C 155,64 120,54 84,54 38,54 -3,87 -3,133 c 0,40 33,72 73,72 25,0 48,-15 56,-39 10,-28 6,-59 35,-59 16,0 54,48 61,63 6,12 23,12 28,0 L 127,-250 c -8,-7 -17,-10 -27,-10 -10,0 -20,3 -28,10 z"
+         fill="currentColor"
+         id="path2529" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:15:2:3"
+     id="a2539"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(23.7306,8.9267)"
+       id="g2537">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path2535" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:16:2:3"
+     id="a2545"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(28.0348,8.9267)"
+       id="g2543">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path2541" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:16:8:9"
+     id="a2553"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(28.0348,5.3)"
+       id="g2551">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text2549"><tspan
+           id="tspan2547">2</tspan></text>
+    </g>
+  </a>
+  <g
+     transform="translate(23.078018,5.5813875)"
+     id="g2557">
+    <rect
+       x="-0.064999998"
+       y="1.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect2555" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:19:20:21"
+     id="a2563"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(25.5306,10.9267)"
+       id="g2561">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path2559" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:19:30:31"
+     id="a2571"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(25.5306,15.3176)"
+       id="g2569">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text2567"><tspan
+           id="tspan2565">a</tspan></text>
+    </g>
+  </a>
+  <g
+     transform="translate(22.452218,5.5813875)"
+     id="g2575">
+    <rect
+       x="-0.064999998"
+       y="-2.8099999"
+       width="0.13"
+       height="2.1238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect2573" />
+  </g>
+  <g
+     transform="translate(18.683018,2.7713875)"
+     id="g2579">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.2 0.04,-0.2 3.7942,-0.2 3.7942,0.2 "
+       id="polygon2577" />
+  </g>
+  <g
+     transform="translate(21.978018,8.9613875)"
+     id="g2583">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.2 0.04,-0.2 1.125,-0.2 1.125,0.2 "
+       id="polygon2581" />
+  </g>
+  <g
+     transform="translate(17.508818,9.7713875)"
+     id="g2587">
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
+       fill="currentColor"
+       stroke="currentColor"
+       points="0.04,0.2 0.04,-0.2 5.5942,-0.2 5.5942,0.2 "
+       id="polygon2585" />
+  </g>
+  <g
+     transform="translate(29.047218,10.041388)"
+     id="g2591">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="M 0,0 H -16 V 250 H 0 Z m 0,0 v 250 c 97,59 224,148 224,259 0,57 -15,112 -40,163 -3,16 10,27 23,27 7,0 15,-3 20,-11 25,-56 40,-117 40,-179 C 267,306 0,203 0,0 Z"
+       fill="currentColor"
+       id="path2589" />
+  </g>
+  <g
+     transform="translate(28.982218,5.5813875)"
+     id="g2595">
+    <rect
+       x="-0.064999998"
+       y="1.6861"
+       width="0.13"
+       height="2.8139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect2593" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:19:40:41"
+     id="a2601"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(31.4348,10.9267)"
+       id="g2599">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path2597" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:19:49:50"
+     id="a2609"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(31.4348,15.6316)"
+       id="g2607">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text2605"><tspan
+           id="tspan2603">&amp;</tspan></text>
+    </g>
+  </a>
+  <g
+     transform="translate(26.756418,5.5813875)"
+     id="g2613">
+    <rect
+       x="-0.064999998"
+       y="-3.6666999"
+       width="0.13"
+       height="2.9806001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect2611" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:19:2:3"
+     id="a2619"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(20.0264,10.9267)"
+       id="g2617">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path2615" />
+    </g>
+  </a>
+  <g
+     transform="translate(19.263018,7.0813875)"
+     id="g2623">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="M 0,0 C 0,31 25,56 56,56 87,56 112,31 112,0 112,-31 87,-56 56,-56 25,-56 0,-31 0,0 Z"
+       fill="currentColor"
+       id="path2621" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:15:8:9"
+     id="a2631"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(23.7306,5.8889)"
+       id="g2629">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text2627"><tspan
+           id="tspan2625">&amp;</tspan></text>
+    </g>
+  </a>
+  <g
+     transform="translate(18.748018,5.5813875)"
+     id="g2635">
+    <rect
+       x="-0.064999998"
+       y="-2.8099999"
+       width="0.13"
+       height="2.1238999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect2633" />
+  </g>
+  <g
+     transform="translate(11.838818,5.5813875)"
+     id="g2639">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 490,-250 h -92 c -6,0 -10,4 -10,10 v 480 c 0,6 4,10 10,10 h 92 c 6,0 10,-4 10,-10 v -480 c 0,-6 -4,-10 -10,-10 z m -220,0 h -93 c -6,0 -10,4 -10,10 v 480 c 0,6 4,10 10,10 h 93 c 6,0 10,-4 10,-10 v -480 c 0,-6 -4,-10 -10,-10 z"
+       fill="currentColor"
+       id="path2637" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:19:12:13"
+     id="a2647"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(20.0264,15.7714)"
+       id="g2645">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text2643"><tspan
+           id="tspan2641">1</tspan></text>
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:14:2:3"
+     id="a2653"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(20.0264,8.9267)"
+       id="g2651">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 218,136 c 55,0 108,-28 108,-89 0,-71 -55,-121 -102,-149 -35,-21 -75,-34 -116,-34 -55,0 -108,28 -108,89 0,71 55,121 102,149 35,21 75,34 116,34 z"
+         fill="currentColor"
+         id="path2649" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit:///home/potatochup/musicforwesties/music_source/./shape-vs-triple.ly:14:8:9"
+     id="a2661"
+     transform="translate(-2.5175818,-3.8453125)">
+    <g
+       transform="translate(20.0264,5.9223)"
+       id="g2659">
+      <text
+         font-family="serif"
+         font-size="1.96px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text2657"><tspan
+           id="tspan2655">1</tspan></text>
+    </g>
+  </a>
+  <g
+     transform="translate(-0.06338179,4.9014875)"
+     id="g2667">
+    <text
+       font-family="serif"
+       font-size="2.2001px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text2665"><tspan
+         id="tspan2663">triple step</tspan></text>
+  </g>
+  <g
+     transform="translate(3.5558182,7.9014875)"
+     id="g2673">
+    <text
+       font-family="serif"
+       font-size="2.2001px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text2671"><tspan
+         id="tspan2669">tresillo</tspan></text>
+  </g>
+  <g
+     transform="translate(17.573818,5.5813875)"
+     id="g2677">
+    <rect
+       x="-0.064999998"
+       y="1.6861"
+       width="0.13"
+       height="2.5039001"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect2675" />
+  </g>
+  <g
+     transform="translate(26.453018,161.26089)"
+     id="g2683">
+    <a
+       xlink:href="https://lilypond.org/"
+       id="a2681">
+      <rect
+         x="0"
+         y="-0.48879999"
+         width="61.560398"
+         height="2.1603"
+         fill="none"
+         stroke="none"
+         stroke-width="0"
+         id="rect2679" />
+    </a>
+  </g>
+  <g
+     transform="translate(26.453018,161.26089)"
+     id="g2689">
+    <text
+       font-family="serif"
+       font-size="2.2001px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text2687"><tspan
+         id="tspan2685">Music engraving by LilyPond 2.22.1—www.lilypond.org</tspan></text>
+  </g>
+</svg>
