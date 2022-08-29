@@ -28,7 +28,7 @@ author: Joel Gibson
 
 # Build settings
 theme: minima
-show_excerpts: true
+show_excerpts: false
 plugins:
   - jekyll-feed
   - jekyll-target-blank

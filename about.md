@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Music For Westies
+title: About
 permalink: /about/
 ---
 
@@ -8,7 +8,7 @@ A site for the exploration and explanation of how music influences West Coast Sw
 
 Want to contribute? Guest posts are more than welcome. 
 
-Questions? Feedback? Want a music theory workshop a your next WCS event? <br>Contact <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+Questions? Feedback? Want a music theory workshop at your next WCS event? <br>Contact <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 <h2>Credits</h2>
 
