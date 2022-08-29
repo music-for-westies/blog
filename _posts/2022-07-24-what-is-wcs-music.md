@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "[DRAFT] What is West Coast Swing Music?"
-date:   2022-07-24 11:15:20 -0700
+title:  "What is West Coast Swing Music?"
+date:   2022-08-28 11:15:20 -0700
 categories: 
     - music-theory
-hidden: true
+hidden: false
 ---
 
 
