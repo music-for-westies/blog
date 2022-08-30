@@ -9,7 +9,7 @@ Welcome to Music for Westies, a site exploring the intersection of music theory 
 
 Topics coming soon...
 
-- The difference between jazz, blues, soul and funk (and why it's relevant) 
+- The difference between jazz, blues, soul and funk (and why it's relevant)
 - Why hitches are "bluesy"
 - Song structure, and how it's changing
 
