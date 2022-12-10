@@ -4,7 +4,8 @@ title:  "What is West Coast Swing Music?"
 date:   2022-07-24 11:15:20 -0700
 categories: 
     - music-theory
-hidden: true
+hidden: false
+permalink: /what-is-wcs-music/
 ---
 
 
@@ -36,6 +37,29 @@ it encourages dancing a different dance style.
 
 <br>
 
+## Dancing to the Music
+
+1. Partner dancing 
+3. Music is not made for dancing
+
+To me, the point of dancing is to express music though motion. 
+I've  always liked the phrase: "if your grandma is watching you dance and she forgot her hearing
+aid, she should be able to tell what genre/style/mood/tempo of music you are dancing to".
+
+Partner dancing introduces further complexity in that you now have communicate your expression of
+the music with someone else while also responding to their ideas. Thankfully, we don't have to start
+from scratch, West Coast Swing already provides a common language via fundamental principles like the slot,
+connection, redirection and so on. West Coast Swing was developed to fit the music of the time
+(swing, jazz, blues),. If a waltz comes on and your partner only knows
+West Coast Swing, do you ignore your partner and dance your best waltz? or ignore
+the music and dance West Coast Swing?
+
+So, when I say "what is West Coast Swing music" I mean "Does the physical expression of this music use physical language that
+the community of West Coast Swing dancers understands"?
+
+With that out of the way, lets dive in and see what we can learn!
+
+
 ## Rhythm
 
 The most important aspect when matching a dance style to a song is the
@@ -44,6 +68,9 @@ points. In music, those "points" would be different notes, and in dancing, the r
 our bodies. Our WCS patterns have an innate rhythm (created by our movement) which we can
 compare with the musical rhythm (created by the instrumentation). 
 
+<div class="alert alert-secondary" role="alert">
+Terminology alert! Musicians usually count in four-beat bars (measures), while our basic WCS rhythms (walk-walks and triple steps) are only two beats long, so dancers usually count rhythms in two-beat sections.
+</div>
 
 ### Rhythm in West Coast Swing
 
@@ -66,9 +93,10 @@ relatively stationary pose. The repeated turns are building energy and tension, 
 is stopped. The same thing is happening in our triples, but on a much shorter time scale. 
 </div>
 
-
-Because the "walk-walk" doesn't have any emphasis, it can fit with practically any rhythm,
-and doesn't help us when trying to discern WCS music. Thus, I'm going to consider the triple step our
+While we can modify our "walk-walks" to fit music better, a basic "walk-walk" doesn't naturally
+emphasize the `1` or `2` over the other. This means walk-walks can fit with practically _any_
+musical rhythm we might encounter, so doesn't help us when trying to discern WCS music. 
+Thus, I'm going to consider the triple step our
 fundamental WCS rhythm. After all, who has ever heard of a
 judge complaining about "not enough walk-walks"?[^what_judges_want]
 
@@ -97,8 +125,11 @@ classes because of the clear rhythm: "So Young" by Portugal the Man.
   </div>
 </div>  
 
-What note stands out the most? Most of us would say every second beat, count `2`, where the snare drum
-strikes. Snare drums have a sharp, percussive sound, at a pitch that humans are more sensitive to
+What can we hear in the rhythm section? There is a bass drum on every `1`, snare on every `2`, and 
+a hi-hat on `1 & 2 &`.
+
+What beat stands out the most? Most of us would say count `2`, where the snare drum
+lands. Snare drums have a sharp, percussive sound, at a pitch that humans are more sensitive to
 [^A_weighting]. The repeated accent on every second beat is called a
 [_backbeat_](https://en.wikipedia.org/wiki/Beat_(music)#Backbeat), and is the foundation of
 jazz, blues, soul and hip hop music [^backbeat_history]<sup>,</sup>[^backbeat_lit_review]. 
@@ -115,7 +146,7 @@ Let's listen to some music and see what we come up with: Here is "Maps" by Maroo
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-        Rhythm Transcription: Maps - Maroon 5
+        Click to show rhythm transcription: Maps - Maroon 5
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
@@ -126,13 +157,8 @@ Let's listen to some music and see what we come up with: Here is "Maps" by Maroo
   </div>
 </div>  
 
-Notice how the every beat has the same drum hit? This rhythm is called a four-on-the-floor*,
-which means that every beat in a bar has the same rhythm. You _can_ WCS to this,
+Notice how the every beat has the same emphasis, particularly in the drums? This rhythm is called a four-on-the-floor. You _can_ WCS to this,
 but this rhythm is more suited to something like [Modern Jive](https://en.wikipedia.org/wiki/Modern_Jive).
-
-<div class="alert alert-secondary" role="alert">
-*musicians usually count in four-beat bars, hence "four-on-the-floor". WCS rhythms (walk-walks and triple steps) are only two beats long, so this analysis is based around in 2-beat sections. 
-</div>
 
 
 A different rhythm is used in "Play that Song" by Train:
@@ -143,7 +169,7 @@ A different rhythm is used in "Play that Song" by Train:
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-        Rhythm Transcription: Play that Song - Train
+        Click to show rhythm transcription: Play that Song - Train
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
@@ -155,9 +181,16 @@ A different rhythm is used in "Play that Song" by Train:
 </div>  
 
 While the snare drum can be heard on every `2`, if you listen closely you'll notice that the
-vocals emphasize the `1` (an example of [6/8
-meter](https://en.wikipedia.org/wiki/Time_signature#Characteristics)).
-This repeated emphasis on every `1` detracts from the `2`. so while it's still dancable, I don't consider this a natural West Coast Swing song. 
+there is also a fairly strong emphasis on every `1`, which indicates that this is [6/8
+meter](https://en.wikipedia.org/wiki/Time_signature#Characteristics).
+
+The emphasis on `1` comes from a few things:
+- The lyrics, which often put a stressed syllable on the `1`
+- A synth/brass note on the `1` (during the chorus)
+- A double-kick on the bass drum which finishes on `1` 
+
+
+This repeated emphasis on every `1` detracts from the `2`. So while it's still dancable, I don't consider this a natural West Coast Swing song. 
 
 To summarize our first metric, we can say:
 
@@ -199,7 +232,7 @@ Here is another song I often use: "I Got the Blues", by Brother Yusef
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFour">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-        Rhythm Transcription: I Got the Blues - Brother Yusef
+        Click to show rhythm transcription: I Got the Blues - Brother Yusef
       </button>
     </h2>
     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
@@ -231,7 +264,7 @@ Now for a more complicated timing structure, "Hold the Line" by TOTO:
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFive">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-        Rhythm Transcription: Hold the Line - TOTO
+        Click to show rhythm transcription: Hold the Line - TOTO
       </button>
     </h2>
     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
@@ -266,7 +299,7 @@ Now for a totally different rhythm: "Shape of You" by Ed Sheeran
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingSix">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-        Rhythm Transcription: Shape of You - Ed Sheeran
+        Click to show rhythm transcription: Shape of You - Ed Sheeran
       </button>
     </h2>
     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
@@ -307,7 +340,7 @@ rhythm:
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingSeven">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
-        Rhythm Transcription: Shape of You (Acoustic) - Ed Sheeran
+        Click to show rhythm transcription: Shape of You (Acoustic) - Ed Sheeran
       </button>
     </h2>
     <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
@@ -331,7 +364,7 @@ enough to stay in the background and doesn't have much of an effect on the promi
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingEight">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
-        Rhythm Transcription: Josephine - Ritual, Lisa Hannigan
+        Click to show rhythm transcription: Josephine - Ritual, Lisa Hannigan
       </button>
     </h2>
     <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
@@ -363,6 +396,15 @@ To summarize the **timing** metric:
 
 > "The timing of the rhythm in the music should be compatible
 with the timing of a basic triple step".
+
+## Tempo
+
+with the typical range being 85 to 115.
+
+Anecdotally, I hear that popular WCS music has gotten slower over the last few decades, so an
+interesting topic for a future post would be to collect as many old playlists as I can find, and
+compare the average tempo to that of the historical pop charts. 
+
 
 <br>
 
