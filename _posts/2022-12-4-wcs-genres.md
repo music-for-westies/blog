@@ -8,9 +8,8 @@ hidden: false
 permalink: /drafts/wcs-music-genres/
 ---
 
-In many forms of West Coast Swing competition, you'll dance to multiple different songs. Common methods
-to contrast the difference are fast v.s. slow and contemporary v.s. blues. 
 
+One of the great aspects of West Coast Swing is the variety of song genres that we can dance to. This is often reflect in competition, where a 3-song heat might involve one fast pop, one slow contemporary and one blues. 
 
 So what happens when that blues music is... not blues? Such as in this example: 
 
@@ -19,17 +18,15 @@ https://www.youtube.com/watch?v=L52TAZo-BYI
 TODO EMBED
 
 
-By most accounts, "Get Up, Get Down, Get Funky, Get Loose" is a Funk song, not a blues song. 
+By most accounts, "Get Up, Get Down, Get Funky, Get Loose" is a funk song, not fast blues. 
 
-Does this matter? Did I write this entire blog post to just to complain about how people don't know the difference between funk and blues, and thus we have an incorrectly labelled youtube video? Well, no. Not really. The point of "Fast Blues" this context is to 
-contrast with the other song by providing different rhythms, structures and melodies to dance to. 
-The first song this couple danced to was slow acoustic contemporary, so a fast funk song is still a 
-meaningful change in music.
+Does this matter? Did I write this entire blog post to just to complain about how people don't know the difference between funk and blues, and thus we have an incorrectly labelled youtube video? Well, no. The DJ choose a "Fast Blues" song in this competition is to contrast with the other song by providing different rhythms, structures and melodies to dance to. 
+The first song in this compeition was slow acoustic contemporary, so a fast funk song is still a 
+meaningful change in music that allows the dancers to demonstrate a different set of skills. 
 
-So why, am I still writing this post? Despite blues, soul, funk and jazz all adequately filling the role of 
-contrasting to contemporary pop, there are important differences between these genres that we should be 
-expressing in our dancing. I should be able to _see_ what genre of music you are dancing to, even if I can't 
-hear the music.
+So why am I still writing this post? Despite blues, soul, funk and jazz all providing meaningful 
+contrast to contemporary/pop, there are important differences _between_ blues/soul/funk/jazz that we should 
+express in our dancing. I should be able to _see_ the difference as the genre changes, even if I couldn't hear the music.
 
 
 ```info
@@ -37,19 +34,33 @@ Disclaimer: All of the genres listed below are <i>much</i> more complex than I'm
 I'm only considering the musical attributes of each genre that are most relevant to West Coast Swing.
 ```
 
-## Aspects
+```info
+Disclaimer 2: "Genre" is a term encompassing the musical (often called "musical form") alongside the social and historical context of the music. I'm only going to dicuss musical form, but if you are interested in the social and historical context of musical genre, I'll put some more references below.
+```
 
-Before, so we can introduce the aspects of music I'll be exploring in a more familiar setting
+## Aspects of Musical Form
 
-### Straight v.s. Swung
+In the youtube video above, the two songs. To dive deeper, we can look at specific _aspects_ of each song and how they differ. Then we can see how this would apply to WCS 
 
-### Smooth v.s. Rhythmic 
+
+An audio sample displaying the volume looks more like rolling hills for the first song, and jagged mountain peaks for the second (pics here)
+
+
+### Timing: Straight v.s. Swung
+
+
+
+### Rhythmic feel: Smooth v.s. sharp, light v.s. heavy
+
+
+
+The timing of the rhythm also influences the rhythmic feel. The same drum line usually feels heavier when it is swung, and less rhythmic when straight. 
 
 ### Structure
 
 
 
-## Genres
+## Musical Forms for WCS
 
 ### Blues
 
@@ -61,7 +72,7 @@ Usually, the most prominent is the location of hi-hat notes between the bass dru
 
 #### 
 
-Blues is often the first genre aside from , and for good reason. 
+Blues is often the first musical form introduced to WCS students, which explains why people are quick to label a funk, soul or jazz song as blues. Unfortunately most musical education stops there.
 
 Firstly, blues music has a l
 
@@ -73,7 +84,7 @@ modern pop in this post, but it usually has the following attributes
 - Verse-Chorus-Verse-Chorus-Bridge-Chorus  
 
 
-Most events and curriculum I've interacted with to will have a workshop or two on dancing blues music, but WCS music education often stops there. Unfortunately this means people often associate anything old-sounding and sung by an African-American as Blues music.
+Most events and curriculum I've encountered to will have a workshop or two on dancing to blues music, but WCS music education often stops there. Unfortunately this means people often associate anything old-sounding and sung by an African-American as Blues music.
 
 
 
@@ -124,8 +135,7 @@ In summary, WCS Jazz songs often...
 
 ### Soul
 
-In summary, WCS Sound songs often...
-
+In summary, WCS soul songs often...
 
 - are straight time
 - feature vocal harmonies and backing instrumentation
@@ -144,7 +154,7 @@ So despite us dancing straight-time triples in funk music (more rhythmic and les
 
 - Superstitious 
 
-There... isn't one. It's the same chord for the entire section. The poor bassist spends the entire verse
+Whats the chord progression for this song? There... isn't one. It's the same chord for the entire section. The poor bassist spends the entire verse
 on the same note.
 
 
@@ -155,15 +165,45 @@ difficult to dance to (e.g. "I Got the Feelin'").
 
 Funk's influence is still seen in some modern music. Most of us would be familiar with 
 Dang! or Perm, which both layer complex rhythms and instrumentation over very simple, repetitive chord progressions. 
+For modern funk artists, see Vulfpek, Parcels or Scary Pockets (who mostly perform covers)
 
 
 In summary, WCS Funk songs often...
 
 - have prominent and complex rhythms
-- are technically straight time (for WCS), but can _feel_ swung
+- have straight 8ths swung 16ths
 - have simpler harmonic progressions
 - have unusual structures and phrasing
 
+
+## Identification of Musical Form
+
+If you can idenfiy each of the musical aspects listed above, and apply them to your dancing, is still useful to be able to name the specific genre of the song you are dancing to? Even though genres are a approximate label at best, I would still say yes, for two reasons.
+
+Firstly, when you are dancing, genre identification can help you predict the remainder of the song. I don't remember every blues song by heart, but I do remember that most of of them have 48-bar phrasing, which helps me plan phrase changes a bit better. When I hear a song with a heavy, swung rhythm and pre-electronic instrumentation I know I'm likely dancing to blues music, and therefore I should expect 48-bar phrasing. 
+
+Secondly, if you are trying to play a song with a specific _aspect_ (e.g. you are teaching a class on heavy v.s. light rhythms), it is much easier to pre-filter by genre. Songs on music platforms are usually only cagetorized by genre and artist, not by any of the musical aspects listed above.
+
+Listed below are is a "cheat sheet" for quickly identifying blues/jazz/soul/funk. Keep in mind that genre lables are approximations at best, and exceptions and fusion songs are frequent.
+
+Blues:
+- heavy, swung rhythm
+- simple vocals and lyrics
+- simple, pre-electronic instrumentation
+- 48-bar phrasing
+
+Jazz:
+- light, swung rhythm
+- more emphasis on the lyrics
+- 32-bar phrasing, often with instrumental  solo sections
+
+Soul:
+- medium, straight rhythm
+- emphasis on vocals, often with harmony
+- no post-chorus, 
+
+Funk:
+- 
 
 ## How does this affect our dancing?
 
@@ -175,7 +215,7 @@ Song structure indicates how energy levels change over the course of the song
 
 ### Conclusion 
 
-Hopefully you've now got an appreciation for some of the older popular WCS genres.
+Hopefully you've now got an appreciation for some of the popular WCS genres.
 
 Remember, genre is just a likely. It's up to you to determine how each aspect of a song
 is represented and adjust your dancing to match 
